@@ -6,7 +6,7 @@
 //Create a User constructor that accepts name, email, password, and totalScore parameters and set them appropriatly
 
   //code here
-
+  
 
 //Create a Question constructor that accepts title, answersArray, rightAnswer, and difficulty parameters
 
